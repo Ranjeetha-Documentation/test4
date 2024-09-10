@@ -1,0 +1,13 @@
+{
+  "tutorialSidebar": [
+    [
+      {
+        "type": "category",
+        "label": "device-management",
+        "items": [
+          "device-management/device-management"
+        ]
+      }
+    ]
+  ]
+}
